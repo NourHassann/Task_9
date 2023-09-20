@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=T* NewDesignator=T*1
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D*1-3
+Add Pin To Net: Unknown Pin: Pin STM*1-PB_4
+Add Pin To Net: Unknown Pin: Pin STM*1-PB_5
+Add Class Member: Failed to add class member : Component D1 Zener Diode

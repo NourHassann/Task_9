@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=echo Pin=D*1-90
+Added Component: Designator=*(Mosfet)
+Added Component: Designator=R*1(Resistor)
+Added Pin To Net: NetName=\ Pin=*-1
+Added Pin To Net: NetName=\ Pin=*-3
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=GND Pin=R*1-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R*1-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=SchematicTask9 Member=Component * P Mosfet
+Add Class Member: Failed to add class member : Component D1 Zener Diode
+Added Member To Class: ClassName=SchematicTask9 Member=Component R*1 Value
+Added Member To Class: ClassName=SchematicTask9 Member=Component STM*1 STM32

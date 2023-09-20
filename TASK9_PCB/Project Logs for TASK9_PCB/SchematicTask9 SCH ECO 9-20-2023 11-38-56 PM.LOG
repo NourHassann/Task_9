@@ -1,0 +1,4 @@
+Remove Pin=D*1-3 From Net=echo
+Remove Pin=STM*1-PB_4 From Net=encoderA
+Remove Pin=STM*1-PB_5 From Net=encoderB
+Change Component Designator: OldDesignator=T*1 NewDesignator=T*
