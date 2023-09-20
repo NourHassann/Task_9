@@ -13,6 +13,6 @@ circuit)
 - (Bonus) Create SID to your system (include PCBs and
 Wiring)
 ## Output
-• Board files
-• (.md) show your documents about this task
-• (.pdf) Include SID for your system
+- Board files
+- (.md) show your documents about this task
+- (.pdf) Include SID for your system
